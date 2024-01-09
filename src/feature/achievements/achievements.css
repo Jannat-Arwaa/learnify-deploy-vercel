@@ -1,0 +1,12 @@
+.pt-24 {
+    background: linear-gradient(45deg, #00CED1);
+
+    /* Add a backdrop filter for a blur effect (adjust the value based on your preference) */
+    backdrop-filter: blur(10px);
+  
+    /* Set the opacity to make the background more subtle */
+    opacity: 0.9;
+  
+    /* Set the height to 100% to cover the entire viewport */
+    
+}

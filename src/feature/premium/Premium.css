@@ -1,0 +1,22 @@
+.premium-card-section{
+    height: 100vh;
+}
+.card1{
+    box-shadow: 2px 2px 2px 2px rgb(180, 245, 245)
+}
+.card1:hover{
+    box-shadow: 0 0 11px rgb(111, 216, 216);}
+.card2{
+        box-shadow: 2px 2px 2px 2px rgb(180, 245, 245)
+    }
+.card2:hover{
+        box-shadow: 0 0 11px rgb(111, 216, 216);}
+
+.card4{
+            box-shadow: 2px 2px 2px 2px rgb(180, 245, 245)
+        }
+ .card4:hover{
+            box-shadow: 0 0 11px rgb(111, 216, 216);}
+          
+    
+
